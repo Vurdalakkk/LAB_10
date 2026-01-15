@@ -206,6 +206,7 @@ int main() {
 }
 ```
 <div align="center">
+
 ## 3. Результаты работы программы
 
 <img width="847" height="174" alt="изображение" src="https://github.com/user-attachments/assets/01db10ad-8673-4cdf-b78a-2aeff2aff9d4" />
